@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "main/acm",
+    "public": "main/acm/public",
     "ignore": [
       "firebase.json",
       "**/.*",
