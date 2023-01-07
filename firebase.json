@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "main/acm",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
